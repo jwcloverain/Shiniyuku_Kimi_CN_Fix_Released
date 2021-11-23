@@ -9,4 +9,4 @@
 **Note**： 适配PKG版本，跳过Kirikiri序列号验证，修正字体为黑体，去除多余修改  
 **Publisher**： 黙示游戏中文化兴趣小组  
 **Engine**： Kirikiri2  
-**Link**： https://github.com/Galgames-Patch-Fix/Shiniyuku-Kimi-CN-Fix  
+**Link**： https://github.com/Galgames-Patch-Fix/Shiniyuku_Kimi_CN_Fix_Released  
